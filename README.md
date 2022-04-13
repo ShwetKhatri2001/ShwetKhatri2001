@@ -25,7 +25,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://shwetkhatri2001.github.io/Shwet-Portfolio)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://shwetkhatri.netlify.app/)
 
 - 💬 Ask me about **Full Stack Web Development**
 
@@ -98,7 +98,7 @@
 <h2 align="center">Connect with me</h2>
 
 <p align="center">
-<a href="linkedin.com/in/shwet-khatri-4ab216196/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
+<a href="https://www.linkedin.com/in/shwet-khatri-4ab216196/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
 <a href="https://discordapp.com/users/Shwet Khatri#1301/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a> 
 <a href="https://dev.to/shwetkhatri2001" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
 <a href="https://leetcode.com/ShwetKhatri/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode" /></a>
