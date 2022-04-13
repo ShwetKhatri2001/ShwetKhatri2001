@@ -1,97 +1,114 @@
-<img align="center" src="./Introbanner.png" />
+<!-- ----------- HEAD SECTION START ------------ -->
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;300&display=swap" rel="stylesheet">
+<img align="center" src="./images/Introbanner.png" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetkhatri2001&label=Profile%20views&color=0e75b6&style=flat" alt="shwetkhatri2001" /> </p>
+<div align="center">
+  <img src="./images/rainbow.png" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shwetkhatri2001" alt="shwetkhatri2001" /></a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%071A37FF&size=30&font=Poppins&center=true&vCenter=true&width=550&height=50&lines=Hey+There+👋,+I'm+Shwet+Khatri;Full+Stack+Web+Developer+💻;+An+Open+Source+Enthusiast+☀;+A+Hackathon+Enthusiast+👨‍💻;Exploring+UI-UX and DevOps;">
+</p>
+
+<div align="center">
+  <img align="center" src="./images/rainbow.png" />
+</div>
+
+<!-- ----------- HEAD SECTION END ------------ -->
+
+<!-- ----------- CONTENT SECTION START ------------ -->
+<div style="font-family: Poppins">
 
 - 🔭 I’m currently working on [Shwetflix](https://shwetflix.netlify.app/)
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Three.JS**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://shwetkhatri2001.github.io/Shwet-Portfolio)
 
-- 💬 Ask me about **Web Development**
-
-- 📫 How to reach me **shwetkhatri2001@gmail.com**
+- 💬 Ask me about **Full Stack Web Development**
 
 - 📄 Know about my experiences from my [Resume](https://drive.google.com/file/d/1qO0gZNqz-dE8LElPdilOH8UG8T0N2Irw/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-   <a href="https://linkedin.com/in/shwet-khatri-4ab216196" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shwet-khatri-4ab216196" height="30" width="40" />
-   </a>
-   <a href="https://www.hackerrank.com/shwetkhatri" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shwetkhatri" height="30" width="40" />
-   </a>
-   <a href="https://dev.to/shwetkhatri2001" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shwetkhatri2001" height="30" width="40" />
-   </a>
+- 📫 How to reach me <a href="mailto:shwetkhatri2001@gmail.com" style="color: #1f6feb; text-decoration: none;">shwetkhatri2001@gmail.com</a>
+</div>
+
+<img align="right" src="https://komarev.com/ghpvc/?username=ShwetKhatri20014&style=flat-square&color=1f6feb">
+<hr>
+
+<!-- ----------- CONTENT SECTION END ------------ -->
+
+<!-- ----------- STATS SECTION START ------------ -->
+<div align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=ShwetKhatri2001&theme=radical&bg_color=00000000&point=00000000&line=1f6feb&hide_border=true&custom_title=Learn,+Explore,+and+Give+back...&color=1f6feb&area=true&area_color=1f6feb">
+</div>
+
+<div align="center">
+<img width="410px" src="https://github-readme-stats.vercel.app/api?username=ShwetKhatri2001&show_icons=true&count_private=true&icon_color=1f6feb&title_color=1f6feb&color=1fdbd8&bg_color=000000&border_color=1f6feb&text_color=1f6feb" />
+<img width="410px" src="http://github-readme-streak-stats.herokuapp.com?user=ShwetKhatri2001&date_format=M%20j%5B%2C%20Y%5D&sideNums=1f6feb&ring=1f6feb&background=000000&dates=1f6feb&currStreakNum=1f6feb&currStreakLabel=1f6feb&fire=1f6feb&sideLabels=1f6feb&stroke=1f6feb&border=1f6feb" />
+
+<div align="center">
+  <img src="./images/rainbow.png" />
+</div>
+
+<!-- ----------- STATS SECTION END ------------ -->
+
+<!-- ----------- TECH STACK SECTION START ------------ -->
+
+### <div style="font-family: Poppins">Tech Stack</div>
+
+| <span style="font-family: Poppins">Domain<span>                             |<span style="font-family: Poppins">Technologies<span>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <span style="color:#1f6feb;font-family: Poppins">Development</span> | ![HTML5](https://img.shields.io/badge/-HTML5-CC2400?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-E24800?style=for-the-badge&logo=css3) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-FE7601?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/-Typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Node.js](https://img.shields.io/badge/nodejs-77b65d.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express-eeeeee.svg?style=for-the-badge&logo=express&logoColor=black) ![MongoDB](https://img.shields.io/badge/mongodb-62ac52.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![GraphQL](https://img.shields.io/badge/graphql-e25c97?style=for-the-badge&logo=graphql&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| <span style="color:#1f6feb;font-family: Poppins">Languages</span>   | ![Java](https://img.shields.io/badge/-Java-cd470a?style=for-the-badge&logo=java) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| <span style="color:#1f6feb;font-family: Poppins" >Tools</span>       | ![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| <span style="color:#1f6feb;font-family: Poppins">UI/UX</span>       | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+
+<div align="center">
+  <img src="./images/rainbow.png" />
+</div>
+
+<!-- ----------- TECH STACK SECTION END------------ -->
+
+<!-- TROPHIES SECTION START -->
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShwetKhatri2001&theme=onedark&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a> 
-   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a> 
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://graphql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
-  </a> 
-   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> 
-    <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/>
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
+<div align="center">
+  <img src="./images/rainbow.png" />
+</div>
+
+<!-- TROPHIES SECTION END -->
+
+<!-- ----------- BANNER SECTION START ------------ -->
+
+![banner.png](./images/header.png)
+
+<div align="center">
+  <img src="./images/rainbow.png" />
+</div>
+
+<!-- ----------- BANNER SECTION END ------------ -->
+
+<!-- ----------- SOCIAL SECTION START ------------ -->
+
+<h2 align="center" style="font-family: Poppins">Connect with me</h2>
+
+<p align="center">
+<a href="linkedin.com/in/shwet-khatri-4ab216196/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
+<a href="https://discordapp.com/users/Shwet Khatri#1301/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a> 
+<a href="https://dev.to/shwetkhatri2001" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
+<a href="https://leetcode.com/ShwetKhatri/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode" /></a>
+<a href="https://www.hackerrank.com/shwetkhatri" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank" /></a>
+<br>
+<br>
 </p>
+                                                                                                                                                           
+<div align="center">
+  <img src="./images/rainbow.png" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shwetkhatri2001&show_icons=true&locale=en" alt="shwetkhatri2001" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shwetkhatri2001&" alt="shwetkhatri2001" /></p>
+<!-- ----------- SOCIAL SECTION EMD ------------ -->
