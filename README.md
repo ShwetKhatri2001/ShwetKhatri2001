@@ -2,18 +2,18 @@
 <img align="center" src="./images/Introbanner.png" />
 
 <div align="center">
-  <img src="./images/rainbow.png" />
+  <img src="./images/rainbow.png" width="120%"/>
 </div>
 
 <p align="center">
  
 
-<img src="https://readme-typing-svg.herokuapp.com?&size=30&color=%040475FF&font=Poppins&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Shwet+Khatri;Full+Stack+Web+Developer+💻;+An+Open+Source+Enthusiast+☀;+A+Hackathon+Enthusiast+👨‍💻;Exploring+UI-UX+and+DevOps;"/>
+<img src="https://readme-typing-svg.herokuapp.com?&size=30&color=%040475FF&font=Poppins&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Shwet+Khatri;Full+Stack+Web+Developer+💻;+An+Open+Source+Enthusiast+☀;+A+Hackathon+Enthusiast+👨‍💻;Exploring+Web3+and+Metaverse;"/>
   </p>
 
 
 <div align="center">
-  <img align="center" src="./images/rainbow.png" />
+  <img align="center" src="./images/rainbow.png" width="120%"/>
 </div>
 
 <!-- ----------- HEAD SECTION END ------------ -->
@@ -21,7 +21,7 @@
 <!-- ----------- CONTENT SECTION START ------------ -->
 - 🔭 I’m currently working on [Shwetflix](https://shwetflix.netlify.app/)
 
-- 🌱 I’m currently learning [Three.JS](http://threejs.org/)
+- 🌱 I’m currently learning [Web3](https://www.freecodecamp.org/news/what-is-web3/)
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
@@ -48,7 +48,7 @@
 <img width="410px" src="http://github-readme-streak-stats.herokuapp.com?user=ShwetKhatri2001&date_format=M%20j%5B%2C%20Y%5D&sideNums=1f6feb&ring=1f6feb&background=000000&dates=1f6feb&currStreakNum=1f6feb&currStreakLabel=1f6feb&fire=1f6feb&sideLabels=1f6feb&stroke=1f6feb&border=1f6feb" />
 
 <div align="center">
-  <img src="./images/rainbow.png" />
+  <img src="./images/rainbow.png" width="120%"/>
 </div>
 
 <!-- ----------- STATS SECTION END ------------ -->
@@ -65,10 +65,21 @@
 | <span style="color:#1f6feb">UI/UX</span>       | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
 <div align="center">
-  <img src="./images/rainbow.png" />
+  <img src="./images/rainbow.png" width="120%"/>
 </div>
 
 <!-- ----------- TECH STACK SECTION END------------ -->
+
+<!-- ----------- BANNER SECTION START ------------ -->
+<br/>
+
+[![@shwetkhatri2001's Holopin board](https://holopin.me/shwetkhatri2001)](https://holopin.io/@shwetkhatri2001)
+
+<div align="center">
+  <img src="./images/rainbow.png" width="120%"/>
+</div>
+
+<!-- ----------- BANNER SECTION END ------------ -->
 
 <!-- TROPHIES SECTION START -->
 <br/>
@@ -77,21 +88,11 @@
 </p>
 
 <div align="center">
-  <img src="./images/rainbow.png" />
+  <img src="./images/rainbow.png" width="120%"/>
 </div>
 <br/>
 
 <!-- TROPHIES SECTION END -->
-
-<!-- ----------- BANNER SECTION START ------------ -->
-
-![banner.png](./images/header.png)
-
-<div align="center">
-  <img src="./images/rainbow.png" />
-</div>
-
-<!-- ----------- BANNER SECTION END ------------ -->
 
 <!-- ----------- SOCIAL SECTION START ------------ -->
 
@@ -108,7 +109,7 @@
 </p>
                                                                                                                                                            
 <div align="center">
-  <img src="./images/rainbow.png" />
+  <img src="./images/rainbow.png" width="120%"/>
 </div>
 
 <!-- ----------- SOCIAL SECTION EMD ------------ -->
