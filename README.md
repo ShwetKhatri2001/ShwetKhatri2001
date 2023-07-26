@@ -2,14 +2,12 @@
 <img align="center" src="./images/Introbanner.png" />
 
 <div align="center">
-  <img src="./images/rainbow.png" width="120%"/>
+  <img src="./images/rainbow.png" width="120%" />
 </div>
 
 <p align="center">
- 
-
-<img src="https://readme-typing-svg.herokuapp.com?&size=30&color=%040475FF&font=Poppins&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Shwet+Khatri;Full+Stack+Web+Developer+💻;+An+Open+Source+Enthusiast+☀;+A+Hackathon+Enthusiast+👨‍💻;Exploring+Web3+and+Metaverse;"/>
-  </p>
+<img src="https://readme-typing-svg.herokuapp.com?&size=30&color=%040475FF&font=Poppins&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Shwet+Khatri;Full+Stack+Web+Developer+💻;+An+Open+Source+Enthusiast+☀;+A+Hackathon+Enthusiast+👨‍💻;Exploring+AR-VR+and+StartUps;"/>
+</p>
 
 
 <div align="center">
@@ -19,9 +17,9 @@
 <!-- ----------- HEAD SECTION END ------------ -->
 
 <!-- ----------- CONTENT SECTION START ------------ -->
-- 🔭 I’m currently working on [Shwetflix](https://shwetflix.netlify.app/)
+- 🔭 I’m currently working on [AR-Personal-Assistant](https://ossistant.vercel.app/)
 
-- 🌱 I’m currently learning [Web3](https://www.freecodecamp.org/news/what-is-web3/)
+- 🌱 I’m currently learning [AR](https://rockpaperreality.com/insights/web-ar/how-does-web-based-augmented-reality-work/)
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
@@ -40,12 +38,9 @@
 
 <!-- ----------- STATS SECTION START ------------ -->
 <div align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=ShwetKhatri2001&theme=radical&bg_color=00000000&point=00000000&line=1f6feb&hide_border=true&custom_title=Learn,+Explore,+and+Give+back...&color=1f6feb&area=true&area_color=1f6feb">
+<img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=ShwetKhatri2001&show_icons=true&count_private=true&theme=react" />
+<img width="420px" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ShwetKhatri2001&theme=react" />
 </div>
-
-<div align="center">
-<img width="410px" src="https://github-readme-stats.vercel.app/api?username=ShwetKhatri2001&show_icons=true&count_private=true&icon_color=1f6feb&title_color=1f6feb&color=1fdbd8&bg_color=000000&border_color=1f6feb&text_color=1f6feb" />
-<img width="410px" src="http://github-readme-streak-stats.herokuapp.com?user=ShwetKhatri2001&date_format=M%20j%5B%2C%20Y%5D&sideNums=1f6feb&ring=1f6feb&background=000000&dates=1f6feb&currStreakNum=1f6feb&currStreakLabel=1f6feb&fire=1f6feb&sideLabels=1f6feb&stroke=1f6feb&border=1f6feb" />
 
 <div align="center">
   <img src="./images/rainbow.png" width="120%"/>
